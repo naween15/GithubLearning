@@ -1,2 +1,2 @@
 # GithubLearning
-A thorough understanding of a github
+A test understanding of a github
